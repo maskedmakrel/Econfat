@@ -13,7 +13,7 @@ For more background and useful examples, consider watching Paul Mahon's "GPG Fre
 
 I tried to keep my program simple. I created a folder called econfat. In that folder, I kept a folder for Code.The art asset was stored in a folder called fatasset. 
 
-I included a generic license text for the work in a folder called (nfatlicense).
+I included a generic license text for the work in a folder called nfatlicense.
 
 I will exclude the license but you can generally look at NFT licenses to get the general gist.
 
