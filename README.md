@@ -1,5 +1,5 @@
 # Econfat
-This is a simple python3 program which encrypts files (like art) and bundles the with a license. It uses GPG for the encryption.
+This is a simple python3 program which encrypts files (like art) and bundles it with a license. It uses GPG for the encryption.
 I wrote this program so that I could digitally encrypt art files (pngs) using GPG and bundle it with a license text.
 
 This program is intended as proof of concept that using secret keys and public keys people can exchange encrypted art sans digital currency. I tried to #comment on everything so that it will be clear what is happening.
